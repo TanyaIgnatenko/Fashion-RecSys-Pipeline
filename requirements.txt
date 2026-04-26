@@ -1,0 +1,12 @@
+pandas
+numpy
+lightgbm
+implicit
+optuna
+streamlit
+shap
+matplotlib
+scipy
+scikit-learn
+pyarrow
+pyngrok
