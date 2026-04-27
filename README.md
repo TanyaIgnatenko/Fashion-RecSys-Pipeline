@@ -2,7 +2,7 @@
 
 A complete two-stage recommendation pipeline built on the [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) Kaggle competition dataset (31.8M transactions, 1.37M customers, 105K articles).
 
-**MAP@12 = 0.0588 · NDCG@12 = 0.0821**
+**MAP@12 = 0.062 · NDCG@12 = 0.086**
 
 > Evaluated on held-out test week (Sep 16-22), boundary artifact users excluded.
 
