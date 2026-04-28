@@ -4,7 +4,7 @@ A complete two-stage recommendation pipeline built on the [H&M Personalized Fash
 
 **MAP@12 = 0.062 · NDCG@12 = 0.086**
 
-> Evaluated on held-out test week (Sep 16-22), boundary artifact users excluded.
+> Evaluated on held-out test week (Sep 16-22)
 
 ---
 
